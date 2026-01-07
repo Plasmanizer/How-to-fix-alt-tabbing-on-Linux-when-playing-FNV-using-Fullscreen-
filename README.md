@@ -14,3 +14,7 @@ bFull Screen=1
 iPresentInterval=0
 
 4. Done
+
+Or you can just use OneTweak and use borderless fullscreen if you want to use vsync and no Wine Virtual Desktop Emulation (at the cost of unstable fps somehow)
+
+Note: disabling vsync is necessary because Wine Virtual Desktop locks the game to 60 FPS and limiting fps are also necessary because you don't want FNV to have too high fps.

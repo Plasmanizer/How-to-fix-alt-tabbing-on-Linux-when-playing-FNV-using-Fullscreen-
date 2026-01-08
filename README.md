@@ -1,4 +1,4 @@
-I made this guide for myself, so i assume how already know to install MO2 and using WSG guide. Also i assume you know some linux gaming stuff.
+I made this guide for myself, so i assume how already know to install MO2 and are using VNV, TBOT or WSG guide. Also i assume you know some linux gaming stuff.
 
 1. First enable wine virtual desktop through Protontricks
 protontricks 22380 winecfg
@@ -6,7 +6,7 @@ tick virtual desktop
 set to your monitor resolution
 
 2. Limit your fps through env variables
-DXVK_FRAME_RATE=[Insert_Monitor_HZ_or_FPS_you_want_to_use_here]
+DXVK_FRAME_RATE=[Insert_Monitor_HZ_or_FPS_you_want_to_use_here] %command%
 
 3. Make sure to enable fullscreen and disable vsync through falloutcustom.ini
 [Display]
@@ -19,4 +19,4 @@ Or you can just use OneTweak and use borderless fullscreen if you want to use vs
 
 Or use gamescope?
 
-Note: disabling vsync is necessary because Wine Virtual Desktop locks the game to 60 FPS and limiting fps are also necessary because you don't want FNV to have too high fps.
+Note: disabling vsync is necessary because Wine Virtual Desktop locks the game to 60 fps for some reason and limiting fps are also necessary because you don't want FNV to have too high fps as it can cause instability issues.

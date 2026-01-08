@@ -20,3 +20,12 @@ Or you can just use OneTweak and use borderless fullscreen if you want to use vs
 Or use gamescope?
 
 Note: disabling vsync is necessary because Wine Virtual Desktop locks the game to 60 fps for some reason and limiting fps are also necessary because you don't want FNV to have too high fps as it can cause instability issues.
+
+Pros and Cons of using Exclusive Fullscreen in FNV (as far as i know)
+Pros:
+1. You can tune brightness with ingame settings
+2. You have the best performance
+
+Cons:
+1. You're stuck with blue virtual screen, so you need to have a seperate workspaces.
+2. The game is not really unfocused when alt-tabbing, so your mouse (or maybe even keyboard) can send input into the game. (this one needed verification)

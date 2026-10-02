@@ -6,7 +6,7 @@ tick virtual desktop
 set to your monitor resolution
 
 2. Limit your fps through env variables
-DXVK_FRAME_RATE=[Insert_Monitor_HZ_or_FPS_you_want_to_use_here] %command%
+DXVK_FRAME_RATE=[Insert_FPS_you_want_to_use_here_max_is_120] %command%
 
 3. Make sure to enable fullscreen and disable vsync through falloutcustom.ini
 [Display]
